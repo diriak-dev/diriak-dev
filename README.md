@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td><strong>Email</strong></td>
-    <td>mateoducasse757@gmail.com</td>
+    <td><a href="mailto:mateoducasse757@gmail.com">mateoducasse757@gmail.com</a></td>
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
