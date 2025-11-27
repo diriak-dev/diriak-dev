@@ -82,15 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Linux Tux Pingüino" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Tux animado" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Tux bailando" width="300" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux Tux Pingüino" width="300" />
 </p>
 
 ---
