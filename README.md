@@ -6,27 +6,27 @@
 
 ---
 
-<h3>🔭 En este momento estoy</h3>
+<h2>🔭 En este momento estoy</h2>
 <ul>
   <li>Mejorando mi portafolio y proyectos de código</li>
   <li>Profundizando en testing de software</li>
   <li>Explorando automatización con Python</li>
 </ul>
 
-<h3>🌱 Actualmente estoy aprendiendo</h3>
+<h2>🌱 Actualmente estoy aprendiendo</h2>
 <ul>
   <li>Programación avanzada en Python</li>
   <li>Desarrollo Web</li>
 </ul>
 
-<h3>👯 Busco colaborar en</h3>
+<h2>👯 Busco colaborar en</h2>
 <ul>
   <li>Proyectos de desarrollo web</li>
   <li>Automatización y testing</li>
   <li>Software de código abierto</li>
 </ul>
 
-<h3>💬 Pregúntame sobre</h3>
+<h2>💬 Pregúntame sobre</h2>
 <ul>
   <li>HTML, CSS y JavaScript (nivel intermedio)</li>
   <li>Python y Java básico</li>
@@ -36,7 +36,7 @@
 
 ---
 
-<h3>🛠️ Tecnologías y herramientas</h3>
+<h2>🛠️ Tecnologías y herramientas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -52,28 +52,49 @@
 
 ---
 
-<h3>📫 Cómo contactarme</h3>
-<ul>
-  <li>Email: tu.email@ejemplo.com</li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/tu-usuario">No tengo Aun</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/diriak.py?igsh=MXQ2Z2t1dnZmcDllcQ==">@diriak.py</a></li>
-  <li>Portfolio: <a href="https://tuportfolio.com">No tengo Aun</a></li>
-</ul>
+<h2>📫 Cómo contactarme</h2>
+
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>tu.email@ejemplo.com</td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://linkedin.com/in/tu-usuario">No tengo aún</a></td>
+  </tr>
+  <tr>
+    <td><strong>Instagram</strong></td>
+    <td><a href="https://www.instagram.com/diriak.py?igsh=MXQ2Z2t1dnZmcDllcQ==">@diriak.py</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://tuportfolio.com">No tengo aún</a></td>
+  </tr>
+</table>
 
 ---
 
-<h3>⚡ Dato curioso</h3>
-<p>Me manejo muy bien en Linux, especialmente en distribuciones Debian, y disfruto mucho estudiar comandos de terminal/bash.</p>
-
----
+<h2>🎥 Video recomendado</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4fUKOqvHLgNN6/giphy.gif" alt="Coding GIF" width="300" />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YYXdXT2l-Gg" title="Introducción al testing de software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+---
+
+<h2>⚡ Dato curioso</h2>
+
+<p align="center">
+  Me manejo muy bien en Linux, especialmente en distribuciones Debian, y disfruto mucho estudiar comandos de terminal/bash.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
 <!--  
 Podés modificar, agregar o eliminar secciones cuando quieras.  
 Este es tu espacio profesional para mostrar quién sos y qué hacés.  
 -->
-
 
