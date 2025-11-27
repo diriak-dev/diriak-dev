@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif](https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux Tux Pingüino" width="300" />
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="Linux Tux Pingüino" width="300" />
 </p>
 
 ---
