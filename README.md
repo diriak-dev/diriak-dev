@@ -75,14 +75,6 @@
 
 ---
 
-<h2>🎥 Video recomendado</h2>
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YYXdXT2l-Gg" title="Introducción al testing de software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
----
-
 <h2>⚡ Dato curioso</h2>
 
 <p align="center">
@@ -90,11 +82,20 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Linux Tux Pingüino" width="300" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Tux animado" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Tux bailando" width="300" />
+</p>
+
+---
 
 <!--  
 Podés modificar, agregar o eliminar secciones cuando quieras.  
 Este es tu espacio profesional para mostrar quién sos y qué hacés.  
 -->
-
