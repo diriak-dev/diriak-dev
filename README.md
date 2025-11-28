@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a href="https://diriak-dev.github.io/">Portafolio</a></td>
+    <td><a href="https://diriak-dev.github.io/">diriak-dev.github.io</a></td>
   </tr>
 </table>
 
