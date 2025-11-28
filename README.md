@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a href="https://tuportfolio.com">No tengo aún</a></td>
+    <td><a href="https://diriak-dev.github.io/">No tengo aún</a></td>
   </tr>
 </table>
 
