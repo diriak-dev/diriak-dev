@@ -61,15 +61,15 @@
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mateo-gabriel-ducasse-nu%C3%B1ez/)">LinkedIn</a></td>
+    <td><a href="https://www.linkedin.com/in/mateo-gabriel-ducasse-nu%C3%B1ez/" target="_blank">LinkedIn</a></td>
   </tr>
   <tr>
     <td><strong>Instagram</strong></td>
-    <td><a href="[https://www.instagram.com/diriak.py?igsh=MXQ2Z2t1dnZmcDllcQ==](https://www.instagram.com/mateogabriel.257?bqrl=MXQ2Z2t1dnZmcDllcQ==)">@diriak.py</a></td>
+    <td><a href="https://www.instagram.com/mateogabriel.257/" target="_blank">@mateogabriel.257</a></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a href="">Proximamente</a></td>
+    <td><a href="#">Próximamente</a></td>
   </tr>
 </table>
 
