@@ -61,15 +61,15 @@
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mateo-gabriel-ducasse-nu%C3%B1ez/)"></a></td>
+    <td><a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mateo-gabriel-ducasse-nu%C3%B1ez/)">LinkedIn</a></td>
   </tr>
   <tr>
     <td><strong>Instagram</strong></td>
-    <td><a href="https://www.instagram.com/diriak.py?igsh=MXQ2Z2t1dnZmcDllcQ==">@diriak.py</a></td>
+    <td><a href="[https://www.instagram.com/diriak.py?igsh=MXQ2Z2t1dnZmcDllcQ==](https://www.instagram.com/mateogabriel.257?bqrl=MXQ2Z2t1dnZmcDllcQ==)">@diriak.py</a></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a href="https://diriak-dev.github.io/">diriak-dev.github.io</a></td>
+    <td><a href="">Proximamente</a></td>
   </tr>
 </table>
 
@@ -78,7 +78,7 @@
 <h2>⚡ Dato curioso</h2>
 
 <p align="center">
-  Me manejo muy bien en Linux, especialmente en distribuciones Debian, y disfruto mucho estudiar comandos de terminal/bash.
+  Me manejo muy bien en Linux, especialmente en distribuciones Debian, y disfruto mucho estudiar comandos de terminal/bash, ademas me manejo mucho en toda area de Sistemas (Como bootear pendrives, redes, servidores, resolucion de problemas tecnicos y instalacion de programas o Software especifico.) un ejemplo podria ser de Soporte IT.
 </p>
 
 <p align="center">
