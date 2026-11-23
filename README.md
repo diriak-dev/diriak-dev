@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://linkedin.com/in/tu-usuario">No tengo aún</a></td>
+    <td><a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mateo-gabriel-ducasse-nu%C3%B1ez/)"></a></td>
   </tr>
   <tr>
     <td><strong>Instagram</strong></td>
